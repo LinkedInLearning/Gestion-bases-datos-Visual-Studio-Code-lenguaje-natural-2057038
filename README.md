@@ -22,6 +22,29 @@ La rama principal del repositorio será main, que actuará como punto central do
 
 Dentro de cada vídeo se mantendrá una estructura común que permitirá al alumnado identificar fácilmente qué se ha hecho en esa lección, qué instrucciones se han utilizado y qué archivos se han generado como resultado. Esta organización facilitará tanto el seguimiento progresivo del curso como la consulta posterior de los materiales.
 
+## Estructura de archivos
+
+La carpeta raíz de los materiales del curso es `documentos/`. Dentro de ella, los contenidos se organizan por capítulo y vídeo.
+
+```text
+documentos/
+   capitulo-01/
+      video-01/
+         README.md
+         prompts/
+            01-prompt-inicial.md
+            02-prompt-ajuste.md
+         codigo/
+            consulta.sql
+            script.ps1
+```
+
+Reglas de organización:
+1. Cada capítulo se guarda en `documentos/capitulo-XX/`.
+2. Cada vídeo se guarda en `documentos/capitulo-XX/video-YY/`.
+3. Los prompts del vídeo van en `prompts/` y el resultado generado va en `codigo/`.
+4. Cada vídeo debe incluir su propio `README.md` con objetivo, resumen, prompts usados y archivos generados.
+
 ## Instalación
 
 1. Para utilizar estos archivos de ejercicios, debes tener descargado lo siguiente:
@@ -30,7 +53,7 @@ Dentro de cada vídeo se mantendrá una estructura común que permitirá al alum
    - una cuenta de Github Copilot
 
 2. Clona este repositorio en tu máquina local usando la Terminal (macOS) o CMD (Windows), o una herramienta GUI como SourceTree.
-3. Accede a la carpeta correspondiente a cada capítulo y abre dentro de ella el vídeo que estés siguiendo para consultar sus prompts, el código generado y la documentación asociada.
+3. Accede a `documentos/capitulo-XX/video-YY/` para consultar los prompts, el código generado y la documentación asociada al vídeo que estés siguiendo.
 
 ### Docente
 
