@@ -4,7 +4,7 @@ Este es el repositorio del curso de LinkedIn Learning `[Gestión de bases de dat
 
 ![Gestión de bases de datos desde Visual Studio Code con lenguaje natural][lil-thumbnail-url] 
 
-Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
+Consulta este README en la rama main para obtener la organización actualizada del repositorio y acceder a los materiales de apoyo del curso.
 
 DESCRIPCIÓN DEL CURSO
 
@@ -12,11 +12,15 @@ Aprende a gestionar y optimizar bases de datos directamente desde Visual Studio 
 
 ## Instrucciones
 
-Este repositorio tiene ramas (branches) para cada uno de los vídeos del curso. Puedes usar el menú emergente de la rama en GitHub para cambiar a una rama específica y echar un vistazo al curso en esa etapa, o puedes añadir `/tree/nombre_de_la_rama` a la URL para ir a la rama a la que quieres acceder.
+Este repositorio se utilizará como material de apoyo del curso para ir almacenando, de forma ordenada, los archivos que se generen en cada vídeo. El objetivo es que el alumnado pueda consultar en cualquier momento los prompts utilizados durante la explicación y el código, consultas, scripts o documentos resultantes, de manera que le resulte sencillo seguir el curso y abrir directamente los materiales trabajados en cada lección.
+
+La organización del contenido se hará por capítulos y, dentro de cada capítulo, por vídeos. Cada vídeo contará con su propio espacio para separar con claridad los prompts empleados y los archivos generados a partir de ellos. Así, el repositorio funcionará como una referencia práctica y estructurada de todo el recorrido del curso.
 
 ## Ramas
 
-Las ramas están estructuradas para corresponder a los vídeos del curso. La convención de nomenclatura es Capítulo#_Vídeo#. Por ejemplo, la rama denominada `02_03` corresponde al segundo capítulo y al tercer vídeo de ese capítulo. Algunas ramas tendrán un estado inicial y otro final. Están marcadas con las letras i («inicio») y f («fin»). La branch i tiene el mismo código que al principio del vídeo. La branch f tiene el mismo código que al final del vídeo. La rama master tiene el estado final del código que aparece en el curso.
+La rama principal del repositorio será main, que actuará como punto central donde se irán incorporando los materiales del curso. En lugar de trabajar con una rama distinta para cada vídeo, la separación del contenido se realizará mediante carpetas organizadas por capítulo y por vídeo.
+
+Dentro de cada vídeo se mantendrá una estructura común que permitirá al alumnado identificar fácilmente qué se ha hecho en esa lección, qué instrucciones se han utilizado y qué archivos se han generado como resultado. Esta organización facilitará tanto el seguimiento progresivo del curso como la consulta posterior de los materiales.
 
 ## Instalación
 
@@ -26,7 +30,7 @@ Las ramas están estructuradas para corresponder a los vídeos del curso. La con
    - una cuenta de Github Copilot
 
 2. Clona este repositorio en tu máquina local usando la Terminal (macOS) o CMD (Windows), o una herramienta GUI como SourceTree.
-3. [Instrucciones específicas del curso].
+3. Accede a la carpeta correspondiente a cada capítulo y abre dentro de ella el vídeo que estés siguiendo para consultar sus prompts, el código generado y la documentación asociada.
 
 ### Docente
 
