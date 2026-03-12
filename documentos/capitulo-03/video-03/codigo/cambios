@@ -1,0 +1,31 @@
+Quiero que edites el PRD actual y lo dejes enfocado únicamente en estas 2 iniciativas:
+
+1) Implementación de vistas de consolidación (CP1)
+2) Implementación de procedimientos almacenados core (MP1)
+
+Instrucciones de edición:
+- No crees un documento nuevo; modifica el PRD existente.
+- Elimina o marca como fuera de alcance todo lo que no sea CP1 y MP1 (por ejemplo: auditoría, histórico, multiusuario, optimizaciones avanzadas, etc.).
+- Reestructura el documento para que tenga solo dos bloques principales:
+  - Bloque A: Vistas (corto plazo)
+  - Bloque B: Procedimientos (medio plazo)
+- Mantén el enfoque pedagógico del curso: scripts listos para revisar por el estudiante y ejecución manual.
+
+Para cada bloque incluye obligatoriamente:
+- Objetivo
+- Alcance funcional
+- Script sugerido (SQL Server, completo y coherente)
+- Validación (consultas de prueba)
+- Criterios de éxito medibles
+- Riesgos y mitigaciones
+- Roadmap de implementación (semanas, dependencias y orden recomendado)
+
+Requisitos de calidad:
+- Corrige ortografía y acentuación en todo el documento.
+- Evita duplicidades y contradicciones.
+- Usa redacción clara para audiencia técnica (DBA y desarrolladores).
+- Deja una sección final de “Plan final aprobado” con solo estas dos iniciativas y un cronograma compacto.
+
+Al terminar:
+- Entrégame un resumen de qué secciones cambiaste.
+- Lista breve de scripts incluidos y pruebas propuestas.
