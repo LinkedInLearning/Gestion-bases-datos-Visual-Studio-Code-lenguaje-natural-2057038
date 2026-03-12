@@ -1,0 +1,1 @@
+Explícame el SQL generado paso a paso para aprender: qué hace cada cláusula (SELECT, FROM, WHERE, ORDER BY), por qué está escrita así y qué alternativas tendría.
