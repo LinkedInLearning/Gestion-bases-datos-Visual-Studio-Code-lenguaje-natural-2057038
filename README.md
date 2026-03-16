@@ -1,6 +1,6 @@
-# Gestión de bases de datos desde Visual Studio Code con lenguaje natural
+# Gestion de bases de datos SQL desde Visual Studio Code con lenguaje natural
 
-Este es el repositorio del curso de LinkedIn Learning `Gestión de bases de datos desde Visual Studio Code con lenguaje natural`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
+Este es el repositorio del curso de LinkedIn Learning `Gestion de bases de datos SQL desde Visual Studio Code con lenguaje natural`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
 ![Gestión de bases de datos desde Visual Studio Code con lenguaje natural][lil-thumbnail-url] 
 
